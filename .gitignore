@@ -1,0 +1,28 @@
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+build/
+**/build/
+.idea/
+*.iml
+
+# Android generated files
+**/.kotlin/
+
+# Ignore all image assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# Uploaded files
+images/
+uploads/
+assets/images/
+assets/files/quran/
+assets/files/hadeeth/
